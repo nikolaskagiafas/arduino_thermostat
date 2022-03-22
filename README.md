@@ -1,2 +1,2 @@
-# arduino_thermostat
-Thermostat-thermometer with Arduino microcontroller
+# Abstract
+Creating an intelligent thermostat-thermometer with Arduino microcontroller, Open Project in the course of Microprocessors and Peripherals.
